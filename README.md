@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdiyev687
-- 👀 I’m interested in football and in Cybersport
+- 👀 I’m interested in football and in cybersport
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 t.me/abd1ew
 
 <!---
